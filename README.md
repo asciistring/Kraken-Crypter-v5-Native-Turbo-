@@ -2,9 +2,10 @@
 
 ![7876876876](https://github.com/asciistring/Kraken-Crypter/assets/163448819/57e32c41-9b82-45bf-8920-9747690c8f8b)
 
-Kraken Crypter 
+Kraken Crypter v5.0
 
-- AV/EDR bypassing lab for training & learning purposes
+
+- AV/EDR Bypass - Native Turbo
 
 - Native + Windows
 - Embedded Payload
@@ -41,4 +42,20 @@ Kraken Crypter
 -Bitdefender GravityZone
 -哨兵
 
+- Обход AV/EDR - Native Turbo
+
+- Native + Windows
+- Встроенная полезная нагрузка
+- Внедрение шеллкода [2 метода]
+- WinAPI + Отключение используемых функций от Ntdll
+- Системные вызовы 
+- Случайный нежелательный код [Статический - Не выполняется] (*)
+- Случайный мусор [динамически исполняемый] (*)
+
+- CrowdStrike Falcon 
+- Trend Micro Apex One
+- Kaspersky Endpoint Security для бизнеса
+- McAfee MVISION Endpoint
+- Bitdefender GravityZone
+- SentinelOne
 
