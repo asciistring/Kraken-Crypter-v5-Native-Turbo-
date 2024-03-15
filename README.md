@@ -6,7 +6,6 @@ Kraken Crypter v5.0
 
 
 - AV/EDR Bypass - Native Turbo
-
 - Native + Windows
 - Embedded Payload
 - Shellcode Injection [2 Methods]
@@ -14,7 +13,6 @@ Kraken Crypter v5.0
 - Syscalls 
 - Random Junk Code [Static - Not Executed] (*)
 - Random Junk [Dynamic - Executed] (*)
-
 - CrowdStrike Falcon 
 - Trend Micro Apex One
 - Kaspersky Endpoint Security for Business
@@ -26,7 +24,6 @@ Kraken Crypter v5.0
 海妖地穴
 
 -AV/EDR绕过实验室进行培训和学习
-
 -原生+Windows
 -嵌入式有效载荷
 -Shellcode注入[2方法]
@@ -34,28 +31,9 @@ Kraken Crypter v5.0
 -系统
 -随机垃圾代码[静态-未执行](*)
 -随机垃圾[动态执行](*)
-
 -CrowdStrike猎鹰
 -趋势微顶点一
 -卡巴斯基网络安全解决方案
 -McAfee MVISION端点
 -Bitdefender GravityZone
 -哨兵
-
-- Обход AV/EDR - Native Turbo
-
-- Native + Windows
-- Встроенная полезная нагрузка
-- Внедрение шеллкода [2 метода]
-- WinAPI + Отключение используемых функций от Ntdll
-- Системные вызовы 
-- Случайный нежелательный код [Статический - Не выполняется] (*)
-- Случайный мусор [динамически исполняемый] (*)
-
-- CrowdStrike Falcon 
-- Trend Micro Apex One
-- Kaspersky Endpoint Security для бизнеса
-- McAfee MVISION Endpoint
-- Bitdefender GravityZone
-- SentinelOne
-
