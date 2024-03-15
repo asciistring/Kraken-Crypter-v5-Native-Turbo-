@@ -37,3 +37,5 @@ Kraken Crypter v5.0
 -McAfee MVISION端点
 -Bitdefender GravityZone
 -哨兵
+
+Note "I coded it to use it myself, I'm done. Those who are looking for a private crypter can contact me."
