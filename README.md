@@ -5,4 +5,4 @@
 
 ![JHJH](https://github.com/asciistring/Kraken-Crypter/assets/163448819/3999acfb-af05-40ce-af65-82d5443ff073)
 
-![das1](https://github.com/asciistring/Kraken-Crypter/assets/163448819/7b82fd1a-733d-4dd8-aae2-c26f8a0277ca)
+![ed](https://github.com/asciistring/Kraken-Crypter/assets/163448819/c22fb574-2493-4f26-8d9d-62242b62f1cb)
